@@ -1,0 +1,54 @@
+
+Table ACCOUNTS created.
+
+
+Table EMPLOYEES created.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Procedure PROCESSMONTHLYINTEREST compiled
+
+
+Procedure UPDATEEMPLOYEEBONUS compiled
+
+
+Procedure TRANSFERFUNDS compiled
+
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+

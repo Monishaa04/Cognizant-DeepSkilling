@@ -1,0 +1,21 @@
+Discount applied for CustomerID: 1
+Discount applied for CustomerID: 3
+Discount applied for CustomerID: 5
+
+Customer 1 marked as VIP.
+Customer 4 marked as VIP.
+Customer 5 marked as VIP.
+
+Reminder: Loan ID 2 for Jane Smith is due on 24-JUL-2025
+Reminder: Loan ID 3 for Mark Taylor is due on 10-JUL-2025
+Reminder: Loan ID 4 for Lucy Brown is due on 21-JUL-2025
+
+Interest applied for AccountID: 101
+Interest applied for AccountID: 103
+Interest applied for AccountID: 104
+
+Bonus updated for EmployeeID: 2
+Bonus updated for EmployeeID: 4
+
+Transfer of 1000 from Account 101 to 102 successful.
+
