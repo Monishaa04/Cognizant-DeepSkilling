@@ -12,14 +12,14 @@ public class CalculatorAAATest {
     // Setup method - runs before every test
     @Before
     public void setUp() {
-        System.out.println("➡️ Setup - Creating Calculator");
+        System.out.println("Setup - Creating Calculator");
         calc = new Calculator();
     }
 
     // Teardown method - runs after every test
     @After
     public void tearDown() {
-        System.out.println("⬅️ Teardown - Cleaning up");
+        System.out.println("Teardown - Cleaning up");
         calc = null;
     }
 
